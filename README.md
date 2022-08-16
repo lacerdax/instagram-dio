@@ -2,6 +2,8 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
+### Acesse
+<a href="https://lacerdax.github.io/instagram-dio/" target="_blank">Clique aqui para visualizar o site!</a>
 
 
 ![DIO Instagram](https://user-images.githubusercontent.com/98031390/183787671-b22c0956-98ab-411b-9742-cc037e6f093d.png)
